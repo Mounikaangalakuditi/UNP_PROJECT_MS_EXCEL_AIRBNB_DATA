@@ -8,5 +8,6 @@ This overall interpretation provides a glimpse into the dynamics of the Airbnb m
 
 Excel link
 https://docs.google.com/spreadsheets/d/16OSN8cIm1_P06LvThUJNRpCwqX8XlaOl/edit?usp=sharing&ouid=117634659923930394481&rtpof=true&sd=true
+
 pdf link
 https://drive.google.com/file/d/1LERt1ce9Nf2c4LBQz-7_fsBEZOOfe8ME/view?usp=sharing
